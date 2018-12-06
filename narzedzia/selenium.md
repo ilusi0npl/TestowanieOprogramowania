@@ -36,6 +36,8 @@
   * Oprócz książki, można też zakupić kursy wideo.
 * [http://mailcourse.seleniumbook.com/](http://mailcourse.seleniumbook.com/)
   * 7 tygodniowy kurs Selenium WebDriver w środowisku .NET.
+ * [https://javastart.pl/kurs/selenium](https://javastart.pl/kurs/selenium)
+  * Kurs Selenium WebDriver w środowisku Java w języku Polskim.
 
 ### Blogi, wpisy, poradniki
 
